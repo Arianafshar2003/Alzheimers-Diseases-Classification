@@ -114,14 +114,14 @@ Summary of workflow, methods, and results in [`presentation.pdf`](presentation.p
 
 1. **Clone this repo:**
     ```bash
-git clone https://github.com/Arianafshar2003/Alzheimers-Diseases-Classification.git
-cd Alzheimers-Diseases-Classification
+    git clone https://github.com/Arianafshar2003/Alzheimers-Diseases-Classification.git
+    cd Alzheimers-Diseases-Classification
     ```
 2. **Open notebook:**  
    - Use Jupyter Notebook or Google Colab  
 3. **Install dependencies:**  
     ```bash
-pip install -r requirements.txt
+    pip install -r requirements.txt
     ```
     *(If you need requirements.txt, see below!)*
 4. **(Optional) Download data:**  
